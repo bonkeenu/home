@@ -1,0 +1,22 @@
+{
+  "name": "sakayan-blog",
+  "version": "1.0.0",
+  "description": "github pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonkeenu/sakayan-tech.git"
+  },
+  "author": "sakano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bonkeenu/sakayan-tech/issues"
+  },
+  "homepage": "https://github.com/bonkeenu/sakayan-tech#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  }
+}
