@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bonkeenu/sakayan-tech#readme",
   "dependencies": {
+    "clear": "^0.1.0",
     "create-react-app": "^1.5.2"
   }
 }
